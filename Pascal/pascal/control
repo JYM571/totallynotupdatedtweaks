@@ -1,0 +1,9 @@
+Package: com.antique.pascal
+Name: Pascal
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Beautiful Volume HUD
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

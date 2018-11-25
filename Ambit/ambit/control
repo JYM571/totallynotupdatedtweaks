@@ -1,0 +1,9 @@
+Package: com.antique.ambit
+Name: Ambit
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide the keyboard after invoking Reachability
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

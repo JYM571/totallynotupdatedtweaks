@@ -1,0 +1,10 @@
+Package: com.antique.elfin
+Name: Elfin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Minimalistic System Music Player
+Maintainer: Antique
+Author: Antique
+Section: Tweaks
+Version: 1.0
+Installed-Size: 160

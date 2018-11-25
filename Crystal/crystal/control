@@ -1,0 +1,9 @@
+Package: com.antique.crystal
+Name: Crystal
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Clear notifications by swiping down
+Maintainer: Antique
+Author: Antique
+Section: Tweaks
